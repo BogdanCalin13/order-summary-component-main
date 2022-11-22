@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: hsl(225, 100%, 94%) ;
+    background-color: hsl(225, 100%, 94%);
 }
 
 .container {
@@ -18,8 +18,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     background-color: whitesmoke;
-    
 }
 
 .attribution {
