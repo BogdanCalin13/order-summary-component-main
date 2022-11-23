@@ -120,6 +120,9 @@ body {
     .hero-img {
         width: 100%;
     }
+     .planning a {
+        margin-left: 1rem;
+     }
 }
 
 
